@@ -1,12 +1,13 @@
 ## Documentation:
-## Introduction: The Task Organizer is a Java console app that uses a PriorityQueue to manage tasks by priority. Users can add, view, complete, and display tasks in the queue.
+## Introduction: 
+The Task Organizer is a Java console app that uses a PriorityQueue to manage tasks by priority. Users can add, view, complete, and display tasks in the queue.
 
 
 ##  Features 
-## 1. Add: Add task (priority: lower number = higher priority).
-## 2. Next: View highest-priority task.
-## 3. Complete: Remove & display highest-priority task.
-## 4. Display All: Show all tasks.
+ 1. Add: Add task (priority: lower number = higher priority).
+2. Next: View highest-priority task.
+ 3. Complete: Remove & display highest-priority task.
+ 4. Display All: Show all tasks.
 
 ## Purpose and Contribution
 This Task Organizer uses a heap to help you organize tasks by importance.  It's useful for managing your to-do list.
